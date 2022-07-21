@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Python Django**
 
-- 💬 Ask me about **python, Django, nodejs, reactjs, graphql, javascript, jquery**
+- 💬 Ask me about **python, Django, reactjs, graphql, javascript, jquery**
 
 - 📫 How to reach me **vikrantsingh.0193@gmail.com**
 
