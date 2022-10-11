@@ -17,6 +17,7 @@
 
 - 📫 How to reach me **vikrantsingh.0193@gmail.com**
 
+<p align="right"><img src="https://raw.githubusercontent.com/vikrantKasera/vikrantKasera/main/git.gif" width="400" height="400" alt="developer"/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikrant-kumar-338039169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikrant-kumar-338039169" height="30" width="40" /></a>
