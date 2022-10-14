@@ -1,5 +1,5 @@
 
- <p> <img src="https://raw.githubusercontent.com/vikrantKasera/vikrantKasera/main/fullStatck.gif" alt="fullStack" height="100" width="100%"/> </p>
+ <p> <img src="https://raw.githubusercontent.com/vikrantKasera/vikrantKasera/main/fullStatck.gif" alt="fullStack" height="400" width="100%"/> </p>
 <h1 align="center">Hi 👋, I'm Vikrant Kumar</h1>
   <h3 align="center">Sr. Python/Django Developer</h3>
   
