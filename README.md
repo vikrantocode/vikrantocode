@@ -8,13 +8,13 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrantocode" alt="vikrantocode" /></a> </p>
   
   
-  - 🔭 I’m currently working on **Django Graphql**
+  - 🔭 I’m currently working on **Django Web Services**
   
   - 🌱 I’m currently learning **react with TypeScript**
   
   - 👯 I’m looking to collaborate on **Python Django**
   
-  - 💬 Ask me about **python, Django, reactjs, graphql, javascript, jquery**
+  - 💬 Ask me about **python, Django, reactjs, graphql, javascript, jquery, Docker**
   
   - 📫 How to reach me **vikrantsingh.0193@gmail.com**
   
